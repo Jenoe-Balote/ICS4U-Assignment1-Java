@@ -1,5 +1,5 @@
 /*
- * This program runs a rock paper scissors, wherein the user
+ * This program runs a rock paper scissors game, wherein the user
  * plays a game of rock paper scissors against the computer.
  *
  * @author  Jenoe Balote
